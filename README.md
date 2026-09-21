@@ -13,7 +13,7 @@ filters, key findings, and Plotly visualizations.
 
 ![Dashboard Preview](assets/dashboard_preview.png)
 
-## 🚀 Live Dashboard
+##  Live Dashboard
 
 The interactive dashboard is deployed using Streamlit Community Cloud.
 
