@@ -13,6 +13,13 @@ filters, key findings, and Plotly visualizations.
 
 ![Dashboard Preview](assets/dashboard_preview.png)
 
+## 🚀 Live Dashboard
+
+The interactive dashboard is deployed using Streamlit Community Cloud.
+
+[Open the Live Dashboard](https://fatal-force-analysis.streamlit.app/)
+
+
 # Objectives
 
 The main objectives of this project are to:
