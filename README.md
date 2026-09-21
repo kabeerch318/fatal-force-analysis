@@ -6,7 +6,12 @@
 This project analyzes police-involved fatal shooting data in the United States using Python and data analysis techniques.
 The project combines static exploratory analysis in Jupyter Notebook with an interactive Streamlit dashboard that allows users to explore the dataset using multiple filters.
 
+## Interactive Dashboard
 
+The project includes an interactive Streamlit dashboard with dynamic
+filters, key findings, and Plotly visualizations.
+
+![Dashboard Preview](assets/dashboard_preview.png)
 
 # Objectives
 
